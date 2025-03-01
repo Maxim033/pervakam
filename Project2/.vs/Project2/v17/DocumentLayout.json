@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09928F3E-ECB4-41C8-9A91-A30714F7E5A0}|Project2\\Project2.vcxproj|C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\Project2\\Project2\\task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09928F3E-ECB4-41C8-9A91-A30714F7E5A0}|Project2\\Project2.vcxproj|solutionrelative:Project2\\task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09928F3E-ECB4-41C8-9A91-A30714F7E5A0}|Project2\\Project2.vcxproj|C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\Project2\\Project2\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09928F3E-ECB4-41C8-9A91-A30714F7E5A0}|Project2\\Project2.vcxproj|solutionrelative:Project2\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\Project2\\Project2\\1.cpp",
+              "RelativeDocumentMoniker": "Project2\\1.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\Project2\\Project2\\1.cpp",
+              "RelativeToolTip": "Project2\\1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T08:49:55.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\Project2\\Project2\\task.cpp",
+              "RelativeDocumentMoniker": "Project2\\task.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\Project2\\Project2\\task.cpp",
+              "RelativeToolTip": "Project2\\task.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T05:25:59.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  1.cpp
+  task.cpp
+C:\Users\Максим\source\repos\Project2\Project2\task.cpp(10,46): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Максим\source\repos\Project2\Project2\task.cpp(18,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+C:\Users\Максим\source\repos\Project2\Project2\1.cpp(22,1): error C4716: main2: должна возвращать значение
